@@ -1,8 +1,6 @@
 # SudokuUI
 Sudoku app for iOS implemented using SwiftUI framework.
 
-![SudokuUI-Gameplay-1](resources/SudokuUI-Gameplay-1.PNG)
-
 ## Features
 + Easy, medium, and hard puzzle difficulties
 + Tools to ease puzzle completion
@@ -17,3 +15,6 @@ Sudoku app for iOS implemented using SwiftUI framework.
 ## Puzzle Generation Details
 + Easy puzzles are generated on the fly by the puzzle generator
 + Medium and hard puzzle seeds are pre-generated and used at runtime to create new puzzles
+
+## Images
+<img src=resources/SudokuUI-Gameplay-1.PNG width="300">
